@@ -439,7 +439,7 @@ const [password, setPassword] = useState("");
           </p>
           <a 
             href="src\public\Vinzon Arellano.pdf" 
-            download="Vinzon Arellano.pdf"
+            download="https://github.com/Vinzon2/Vinzon-Arellano/blob/main/src/public/Vinzon%20Arellano.pdf"
             className="inline-flex px-10 py-5 bg-black text-white font-bold rounded-2xl hover:scale-105 active:scale-95 transition-all items-center gap-3 mx-auto shadow-2xl"
           >
             <Download className="w-6 h-6" /> Download Resume (PDF)
