@@ -438,7 +438,7 @@ const [password, setPassword] = useState("");
             education, and technical achievements.
           </p>
           <a 
-            href="src\public\Vinzon Arellano.pdf" 
+            href="Vinzon Arellano.pdf" 
             download="Vinzon Arellano.pdf"
             className="inline-flex px-10 py-5 bg-black text-white font-bold rounded-2xl hover:scale-105 active:scale-95 transition-all items-center gap-3 mx-auto shadow-2xl"
           >
